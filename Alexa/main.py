@@ -13,7 +13,6 @@ engine.say('Hi, I am Nani')
 engine.say('What can I do for you')
 engine.runAndWait()
 
-
 def talk(text):
     engine.say(text)
     engine.runAndWait()
